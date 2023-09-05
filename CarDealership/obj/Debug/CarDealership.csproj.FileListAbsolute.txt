@@ -1,0 +1,8 @@
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\CarDealership\CarDealership\bin\Debug\CarDealership.exe.config
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\CarDealership\CarDealership\bin\Debug\CarDealership.exe
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\CarDealership\CarDealership\bin\Debug\CarDealership.pdb
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\CarDealership\CarDealership\obj\Debug\CarDealership.csproj.AssemblyReference.cache
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\CarDealership\CarDealership\obj\Debug\CarDealership.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\CarDealership\CarDealership\obj\Debug\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\CarDealership\CarDealership\obj\Debug\CarDealership.exe
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\CarDealership\CarDealership\obj\Debug\CarDealership.pdb
